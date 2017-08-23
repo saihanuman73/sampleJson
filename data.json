@@ -1,4 +1,4 @@
-{
+[{
         "skillId": "01",
         "name": "Javascript",
         "logo": ""
@@ -12,4 +12,4 @@
         "skillId": "03",
         "name": "Angular JS",
         "logo": ""
-    },
+    }]
