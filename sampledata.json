@@ -1,0 +1,15 @@
+[{
+        "skillId": "01",
+        "name": "Javascript",
+        "logo": ""
+    },
+    {
+        "skillId": "02",
+        "name": "Node Js",
+        "logo": ""
+    },
+    {
+        "skillId": "03",
+        "name": "Angular JS",
+        "logo": ""
+    }]
